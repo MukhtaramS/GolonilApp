@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="screenshots/app-preview.png" width="700" alt="Golonil Preview"/>
+  <img src="AppGif.gif" width="700" alt="Golonil Preview"/>
 </p>
 
 <p align="center">
