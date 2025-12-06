@@ -130,5 +130,4 @@ open Package.swift
 
 <p align="center">
   <i>"Play and Learn the fun and competitive game of Golonil"</i><br>
-  Made with 🌹 by Team ASTRA
 </p>
